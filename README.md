@@ -2,6 +2,7 @@
 ---
 
 # Ego-Motion Estimation using Optical Flow from Multi-Camera Setup  
+![plot](./media/image_grid0.jpg)
 
 ## Authors  
 ** Parth Mahajan, Utkarsh Rai , Ajith Sylvester, Kumar Selvakumaran, Sakshi Bhatia**  
